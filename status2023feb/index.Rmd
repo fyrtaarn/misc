@@ -18,7 +18,7 @@ output:
     seal: false
 ---
 
-class: left, middle, hide_logo
+class: left, middle
 background-image: url(https://source.unsplash.com/OXmym9cuaEY)
 background-size: 500px
 background-position: right
@@ -26,7 +26,7 @@ background-position: right
 
 ```{r xaringanExtra, echo = FALSE}
 xaringanExtra::use_logo(
-  image_url = "images/fhi_logo_lang.png",
+  image_url = "img/fhi-logo.png",
   link_url = "https://www.fhi.no",
   position = xaringanExtra::css_position(top = "1em", right = "1em")
 )

@@ -1,0 +1,14 @@
+.font-color {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 0.7em;
+    color: grey;
+}
+
+.font-dot {
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.2em;
+    color: darkblue;
+}

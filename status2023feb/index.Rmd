@@ -1,0 +1,138 @@
+---
+title: "Fyrtårnprosjektet"
+subtitle: "FHI som analyseenhet"
+author: "Yusman Kamaleri"
+<span style = 'font-size: 40%;'
+date: "2023-03-15"
+output:
+  xaringan::moon_reader:
+    css: [default, xaringan-themer.css, styles.css]
+    lib_dir: libs
+    nature:
+      titleSlideClass: ["left", "middle", "inverse"]
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+    seal: false
+---
+
+class: left, middle, hide_logo
+background-image: url(https://source.unsplash.com/OXmym9cuaEY)
+background-size: 500px
+background-position: right
+
+
+```{r xaringanExtra, echo = FALSE}
+xaringanExtra::use_logo(
+  image_url = "images/fhi_logo_lang.png",
+  link_url = "https://www.fhi.no",
+  position = xaringanExtra::css_position(top = "1em", right = "1em")
+)
+xaringanExtra::use_progress_bar(color = "#0051BA", location = "bottom")
+xaringanExtra::use_panelset()
+xaringanExtra::use_tile_view()
+xaringanExtra::use_fit_screen()
+xaringanExtra::use_extra_styles(
+  hover_code_line = TRUE,         #<<
+  mute_unhighlighted_code = TRUE  #<<
+)
+```
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#080808",  # Black
+  inverse_header_color = "#12126b"
+)
+```
+
+```{r setup, echo = FALSE}
+image_link <- function(image,url,...){
+  htmltools::a(
+    href=url,
+    htmltools::img(src=image,...)
+  )
+}
+```
+
+# Fyrtårnprosjekt
+### Status oppdatering fra FHI
+
+.font-color[Oslo | 23.02.2023]
+
+---
+class: left
+background-image: url(https://source.unsplash.com/PpgY7sjpf_0)
+background-position: right
+background-size: 450px 
+
+# Ferdig
+
+.pull-left[
+- .font-dot[ Prosjektprotokoll ]
+
+  [Beskrivelse](https://www.fhi.no/cristin-prosjekter/aktiv/skader-i-norge-analyse-av-data-i-fyrtarnprosjektet) av arbeidet som FHI skal gjennomføre. 
+
+- .font-dot[ REK søknad ]
+ 
+ REK godkjent 22.12.2022
+ 
+]
+ 
+---
+class: left
+background-image: url(https://source.unsplash.com/GopRYASfsOc)
+background-position: right
+background-size: 450px 
+
+# Pågående
+.pull-left[
+- .font-dot[ DPIA ]
+
+  Vurdering av personvernkonsekvenser ble sendt 24.01.2023. Svar innen 8 - 12 uker.
+
+- .font-dot[ Oppdragsavtale med SVV ]
+
+  Venter på tilbakemelding fra SVV.
+  
+- .font-dot[ Analyser av anonyme data fra NTR ]
+
+  - Plan om å bruke data for 2022
+  - Venter på data fra Ullevål sykehus
+
+- .font-dot[Utvikle indikatorer for løpende statistikk]
+
+  - Indikatorer er basert på FMDS skjema
+  - Forslag til indikatorer finnes på denne side [https://github.com/fyrtaarn/indikator/blob/main/indikator.org](https://github.com/fyrtaarn/indikator/blob/main/indikator.org)
+
+]
+
+ 
+---
+class: left
+background-image: url(https://source.unsplash.com/1ZdE_X5Hz3c)
+background-position: right
+background-size: 450px 
+
+# Planlagt
+.pull-left[
+
+- .font-dot[Søknad om tilgang til data fra NPR]
+
+  - Etter godkjent av DPIA søknaden
+
+- .font-dot[Preliminære analyser av FMDS data]
+
+  - Forberedelse til data rensing og analyser
+  - Kan begynne å søke om tilgang til data etter godkjent av DPIA søknaden
+  
+- .font-dot[Utvikle analysesystem for produksjon av løpende statistikk]
+
+  - Forenkle og automatisere prosessen
+  
+- .font-dot[Formidling]
+
+  - Via temaside hos FHI [https://www.fhi.no/hn/skader/](https://www.fhi.no/hn/skader/)
+
+]

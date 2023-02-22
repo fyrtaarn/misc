@@ -65,7 +65,7 @@ image_link <- function(image,url,...){
 class: left
 background-image: url(https://source.unsplash.com/PpgY7sjpf_0)
 background-position: right
-background-size: 450px 
+background-size: 550px 
 
 # Ferdig
 
@@ -84,7 +84,7 @@ background-size: 450px
 class: left
 background-image: url(https://source.unsplash.com/GopRYASfsOc)
 background-position: right
-background-size: 450px 
+background-size: 550px 
 
 # Pågående
 .pull-left[
@@ -94,12 +94,12 @@ background-size: 450px
 
 - .font-dot[ Oppdragsavtale med SVV ]
 
-  Venter på tilbakemelding fra SVV.
+  Vente på tilbakemelding fra SVV.
   
-- .font-dot[ Analyser av anonyme data fra NTR ]
+- .font-dot[ Analyse av anonyme data fra NTR ]
 
   - Plan om å bruke data for 2022
-  - Venter på data fra Ullevål sykehus
+  - Vente på data fra Ullevål sykehus
 
 - .font-dot[Utvikle indikatorer for løpende statistikk]
 
@@ -110,14 +110,13 @@ background-size: 450px
 
  
 ---
-class: left
+class: left 
 background-image: url(https://source.unsplash.com/1ZdE_X5Hz3c)
-background-position: right
+background-position: left
 background-size: 450px 
 
+.pull-right[
 # Planlagt
-.pull-left[
-
 - .font-dot[Søknad om tilgang til data fra NPR]
 
   - Etter godkjent av DPIA søknaden

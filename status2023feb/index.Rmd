@@ -8,6 +8,7 @@ output:
   xaringan::moon_reader:
     css: [default, xaringan-themer.css, styles.css]
     lib_dir: libs
+    self_contained: true
     nature:
       titleSlideClass: ["left", "middle", "inverse"]
       slideNumberFormat: "%current%"
@@ -18,10 +19,10 @@ output:
     seal: false
 ---
 
-class: left, middle
+class: right, middle
 background-image: url(https://source.unsplash.com/OXmym9cuaEY)
-background-size: 500px
-background-position: right
+background-size: 450px
+background-position: right 
 
 
 ```{r xaringanExtra, echo = FALSE}
@@ -55,11 +56,12 @@ image_link <- function(image,url,...){
   )
 }
 ```
-
-# Fyrtårnprosjekt
-### Status oppdatering fra FHI
+.pull-left[
+# Fyrtårnprosjektet
+### Status fra FHI
 
 .font-color[Oslo | 23.02.2023]
+]
 
 ---
 class: left
@@ -113,18 +115,18 @@ background-size: 550px
 class: left 
 background-image: url(https://source.unsplash.com/1ZdE_X5Hz3c)
 background-position: left
-background-size: 450px 
+background-size: contain 
 
 .pull-right[
 # Planlagt
 - .font-dot[Søknad om tilgang til data fra NPR]
 
-  - Etter godkjent av DPIA søknaden
+  - Etter godkjennelse av DPIA søknaden
 
 - .font-dot[Preliminære analyser av FMDS data]
 
-  - Forberedelse til data rensing og analyser
-  - Kan begynne å søke om tilgang til data etter godkjent av DPIA søknaden
+  - Forberedelse til datarensing og analyser
+  - Søke om tilgang til data etter godkjennelse av DPIA søknaden
   
 - .font-dot[Utvikle analysesystem for produksjon av løpende statistikk]
 

@@ -12,3 +12,23 @@
     font-size: 1.2em;
     color: darkblue;
 }
+
+/* unvisited link */
+a:link {
+  color: darkgreen;
+}
+
+/* visited link */
+a:visited {
+  color: #C01114
+}
+
+/* mouse over link */
+a:hover {
+  color: darkcyan;
+}
+
+/* selected link */
+a:active {
+  color: #C011aa;
+}

@@ -1,0 +1,8 @@
+#+title: Samling from koordinatorer i Bergen
+
+Noen idea til presentasjonen:
+* Betydning for riktig koding
+Å kode for =uspesifisert= eller =annet= kalles også =søppelkode=. I DÅR så er
+det ca. 30% av ulykkedødsfallet uspesifisert. I forebyggingsøyemed har slike
+sekkebetegnelser veldig liten verdi. Samtidig medfører bruk av slike kategorier
+til en underrapportering av andre (spesifiserte) dødsårsaker.

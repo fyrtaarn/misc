@@ -6,3 +6,6 @@ Noen idea til presentasjonen:
 det ca. 30% av ulykkedødsfallet uspesifisert. I forebyggingsøyemed har slike
 sekkebetegnelser veldig liten verdi. Samtidig medfører bruk av slike kategorier
 til en underrapportering av andre (spesifiserte) dødsårsaker.
+* Komplett og kvalitet
+Komplett data kan også ha lav kvalitet f.eks for mange =ukjent= eller =uspesifisert=
+

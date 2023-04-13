@@ -1,0 +1,13 @@
+#+Title: Fyrtårnprosjekt
+
+:REVEAL_PROPERTIES:
+#+REVEAL_THEME: serif
+#+REVEAL_EXTERNAL_PLUGINS: (RevealChalkboard . "%splugin/chalkboard/plugin.js")
+#+REVEAL_EXTERNAL_PLUGINS: (RevealCustomControls . "splugin/customcontrols/plugin.js")
+#+REVEAL_PLUGINS: (markdown notes RevealChalkboard RevealCustomControls)
+#+OPTIONS: toc:nil
+:END:
+
+* Test slide
+
+* Test 2

@@ -1,0 +1,12 @@
+#+title: Fyrtårnprosjekt test1
+
+:REVEAL_PROPERTIES:
+#+REVEAL_THEME: serif
+#+REVEAL_ADD_PLUGIN: chalkboard RevealChalkboard plugin/chalkboard/plugin.js
+#+REVEAL_PLUGINS: (markdown notes chalkboard)
+#+OPTIONS: toc:nil
+:END:
+
+* Test slide
+
+* Test 2

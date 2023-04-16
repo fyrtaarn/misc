@@ -1,7 +1,7 @@
 ---
-title: "Fyrtårnprosjekt"
+title: "<span style = 'font-size: 80%;'>Fyrtårnprosjektet"
 subtitle: "FHI og skadedata"
-author: "Yusman Kamaleri<br><br><span style = 'font-size: 50%;'>BERGEN | 21.04.2023"
+author: "<br><br><span style = 'font-size: 50%;'>BERGEN | 21.04.2023"
 format:
   coeos-revealjs:
     theme: [serif, custom.scss]
@@ -18,8 +18,17 @@ execute:
   echo: true
 ---
 
-## Fyrtårnprosjekt
 
-<br/>
+## Prosjektmedarbeidere {
+background-image="img/together.jpg" 
+background-size="35%" 
+background-position="right" 
+background-opacity="0.5"}
 
-bla.. bla..
+<br>
+
+- Yusman Kamaleri
+- Eyvind Ohm
+- Kari Alver
+- Christian Madsen
+- Else Karin Grøholt

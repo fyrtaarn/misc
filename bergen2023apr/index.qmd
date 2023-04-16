@@ -1,11 +1,16 @@
 ---
 title: "Fyrtårnprosjekt"
-subtitle: "FHI som analyseenhent"
-author: "Yusman Kamaleri<br>BERGEN<br>21.04.2023"
+subtitle: "FHI og skadedata"
+author: "Yusman Kamaleri<br><br><span style = 'font-size: 50%;'>BERGEN | 21.04.2023"
 format:
-  revealjs:
-    theme: [moon]
+  coeos-revealjs:
+    theme: [serif, custom.scss]
     preview-links: auto
+    logo: img/fhi-logo.png
+    footer: |
+      <a href="https://www.fhi.no/">fhi.no</a>
+      |
+      Fyrtårnprosjektet
     chalkboard:
       boardmarker-width: 5
 from: markdown+emoji
@@ -16,3 +21,5 @@ execute:
 ## Fyrtårnprosjekt
 
 <br/>
+
+bla.. bla..

@@ -99,7 +99,7 @@ Felles minimum datasett (FMDS) data som utgangspunkt
 #| echo: FALSE
 
 source("fig1.R")
-rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall", comp = "Ukjent",
+rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall skader", comp = "Ukjent",
              title = "Fremkomsmiddel ved veitrefikkulykker (N=4593)")
 ```
 

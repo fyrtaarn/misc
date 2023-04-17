@@ -32,3 +32,11 @@ background-opacity="0.5"}
 - Kari Alver
 - Christian Madsen
 - Else Karin Grøholt
+
+
+## {.center}
+
+<center><span style = 'font-size: 50px; color: darkblue;'>
+Produsere statistikk og gjennomføre <br> ulike analyse- og forskningsoppgaver
+<br><span style = 'font-size: 24px;color: black;'>Felles minimum datasett (FMDS) data som utgangspunkt
+</center>

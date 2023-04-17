@@ -109,3 +109,11 @@ rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall skader", comp = "Ukjent",
 ![](img/missing.png){.absolute bottom="40" right="50" width="70%"}
 
 
+## FMDS Skjema
+
+:::{.r-stack}
+![](img/FMDS.png){.fragment width="70%"}
+![](img/fmds1.png){.fragment width="550" height="400" .absolute top="110" left="60"}
+![](img/fmds3.png){.fragment width="600" height="400" .absolute bottom="100" right="70"}
+![](img/fmds2.png){.fragment width="500" height="400" .absolute bottom="30" right="270"}
+:::

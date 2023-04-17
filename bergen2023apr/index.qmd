@@ -36,7 +36,13 @@ background-opacity="0.5"}
 
 ## {.center}
 
-<center><span style = 'font-size: 50px; color: darkblue;'>
+:::{style="font-size: 50px; color: darkblue; text-align: center"}
 Produsere statistikk og gjennomføre <br> ulike analyse- og forskningsoppgaver
-<br><span style = 'font-size: 24px;color: black;'>Felles minimum datasett (FMDS) data som utgangspunkt
-</center>
+:::
+
+:::{style="font-size: 25px; color: black; text-align: center"}
+Felles minimum datasett (FMDS) data som utgangspunkt
+:::
+
+## {.center}
+

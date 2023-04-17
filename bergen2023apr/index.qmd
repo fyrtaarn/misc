@@ -73,7 +73,7 @@ Felles minimum datasett (FMDS) data som utgangspunkt
 | Alder               |        |                          |                              |
 | Fremkomstmiddel     |        |                          |                              |
 
-## Personskadedata 2020
+## Personskadedata 2022
 
 <br>
 
@@ -89,3 +89,22 @@ Felles minimum datasett (FMDS) data som utgangspunkt
 . . .
 
 ![](img/missing.png){.absolute bottom="10%" left="65%" width="30%"}
+
+## Fremkomstmiddel 2022
+
+<br>
+
+```{r}
+#| fig-align: "center"
+#| echo: FALSE
+
+source("fig1.R")
+rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall", comp = "Ukjent",
+             title = "Fremkomsmiddel ved veitrefikkulykker (N=4593)")
+```
+
+. . .
+
+![](img/missing.png){.absolute bottom="40" right="50" width="70%"}
+
+

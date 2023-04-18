@@ -100,7 +100,7 @@ Felles minimum datasett (FMDS) data som utgangspunkt
 
 source("fig1.R")
 rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall skader", comp = "Ukjent",
-             split = 0.05,
+             split = 0.05, col2 = "#e378aa",
              title = "Fremkomsmiddel ved veitrefikkulykker (N=4593)")
 ```
 
@@ -117,3 +117,13 @@ rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall skader", comp = "Ukjent",
 ![](img/fmds3.png){.fragment width="600" height="400" .absolute bottom="100" right="70"}
 ![](img/fmds2.png){.fragment width="500" height="400" .absolute bottom="30" right="270"}
 :::
+
+## Ukjent eller uspesifisert
+
+<br>
+
+- Søppelkode
+- Veldig liten verdi i forebyggingøyemed
+- Underrapportering av andre spesifiserte årsaker
+- [Kompletthet](https://www.kvalitetsregistre.no/kompletthet) og kvalitet
+

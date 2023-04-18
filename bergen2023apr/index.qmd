@@ -54,14 +54,14 @@ Felles minimum datasett (FMDS) data som utgangspunkt
 :: Analyse og forskning
 :::
 
-## Løpende statistikk
+## [ Løpende statistikk ]{style="color:#822338"}
 
 ![](img/charts.png){.absolute top=40 right=10 width="400" height="250"}
 
 <br>
 
 - Deskriptiv statistikk over <br> trafikkulykkeskader behandlet <br> i helsetjenesten
-- Utleveres [tertialvis]{style="color:#cc0001;"} til Statens vegvesen
+- Utleveres [tertialvis]{style="color:#546deb;"} til Statens vegvesen
 - Datagrunnlag for å følge utviklingen av trafikkulykker dvs. endring over tid
 
 ## Statistikk
@@ -87,6 +87,12 @@ Felles minimum datasett (FMDS) data som utgangspunkt
 | [**Ukjent**]{style="color:#cc0001"} | [**3.2**]{style="color:#cc0001"} | [153]{style="color:#cc0001; font-weight:bold;"} |
 
 :Personskadedata (N = 4710) {tbl-colwidths="[50,25,25]"}
+
+<br>
+<br>
+_______________ 
+<br>
+[ Helsedirektoratet. *Personskadedata 2022* (2023) ]{style="font-size: 15px;"}
 
 . . .
 
@@ -129,7 +135,7 @@ rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall skader", comp = "Ukjent",
 - Underrapportering av andre spesifiserte årsaker
 - [Kompletthet](https://www.kvalitetsregistre.no/kompletthet) og kvalitet
 
-## Analyse og forskning
+## [ Analyse og forskning ]{style="color:#822338"}
 
 <br>
 
@@ -151,7 +157,7 @@ Hvor mange skadde pasienter behandles i helsetjenesten?
 - Alvorlighetsgrad (AIS)
 - Behandlingsnivå
 
-## Sociodemografisk og geografisk
+## Sosiodemografisk og geografisk
 
 <br>
 
@@ -192,4 +198,6 @@ Hvordan er det med datakvalitet?
 ![](img/fhi-logo.png){.absolute bottom=5 right=5 height="6%" width="8%"}
 
 ![](img/research.png){width="90%" fig-align="center"}
+
+## {background-image="https://source.unsplash.com/oZuBNC-6E2s" background-size="cover"}
 

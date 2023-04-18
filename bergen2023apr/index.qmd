@@ -122,8 +122,67 @@ rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall skader", comp = "Ukjent",
 
 <br>
 
-- Søppelkode
+- Søppelkode :wastebasket:
 - Veldig liten verdi i forebyggingøyemed
 - Underrapportering av andre spesifiserte årsaker
 - [Kompletthet](https://www.kvalitetsregistre.no/kompletthet) og kvalitet
 
+## Analyse og forskning
+
+<br>
+
+Frembringe mer kunnskap om hvordan risiko for skader og ulykker er fordelt mellom grupper i befolkningen
+
+- Forekomst av skader
+- Sosiodemografisk og geografisk
+- Datakvalitet
+
+## Forekomst av skader
+ 
+<br>
+
+Hvor mange skadde pasienter behandles i helsetjenesten?
+
+- Type ulykker/skader
+- Alvorlighetsgrad (AIS)
+- Behandlingsnivå
+
+## Sociodemografisk og geografisk
+
+<br>
+
+Finnes det forskjeller i forekomst av skader etter..
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Kjønn
+- Aldersgruppe
+- Utdanningsnivå
+- Inntekt/formue
+:::
+
+::: {.column width="60%"}
+- Sivilstand
+- Landbakgrunn
+- Bosted
+- Skadested
+:::
+
+::::
+
+## Datakvalitet
+
+<br>
+
+Hvordan er det med datakvalitet?
+
+- Representativt bilde av skadeomfanget i hele landet (standardisering)
+- Representativitet av skader behandlet i helsetjenesten
+- Kompletthet av registreringen for alvorlig skadde
+- Samsvaret med politiregister
+- Samsvaret i vurdering av skadens alvorlighetsgrad
+
+## {.center}
+
+![](img/research1.png){width="80%" fig-align="center"}

@@ -1,7 +1,8 @@
 ---
 title: "<span style = 'font-size: 80%;'>Fyrtårnprosjektet"
 subtitle: "FHI og skadedata"
-author: "<br><br><span style = 'font-size: 50%;'>BERGEN | 21.04.2023"
+author: "<br><span style = 'font-size: 25px;'>Samling for skadekoordinatorene<br>
+         <span style = 'font-size: 15px;'>BERGEN | 21.04.2023"
 format:
   coeos-revealjs:
     theme: [serif, custom.scss]

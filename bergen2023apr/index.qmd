@@ -7,6 +7,8 @@ format:
     theme: [serif, custom.scss]
     preview-links: auto
     logo: img/fhi-logo.png
+    transition: fade 
+    transition-speed: default 
     footer: |
       <a href="https://www.fhi.no/">fhi.no</a>
       |
@@ -112,7 +114,7 @@ rreg::regbar(DT[-.N], "v1", "v2", ylab = "Antall skader", comp = "Ukjent",
 ## FMDS Skjema
 
 :::{.r-stack}
-![](img/FMDS.png){.fragment width="70%"}
+![](img/FMDS.png){width="70%"}
 ![](img/fmds1.png){.fragment width="550" height="400" .absolute top="110" left="60"}
 ![](img/fmds3.png){.fragment width="600" height="400" .absolute bottom="100" right="70"}
 ![](img/fmds2.png){.fragment width="500" height="400" .absolute bottom="30" right="270"}
@@ -136,6 +138,8 @@ Frembringe mer kunnskap om hvordan risiko for skader og ulykker er fordelt mello
 - Forekomst av skader
 - Sosiodemografisk og geografisk
 - Datakvalitet
+
+![](img/company.jpg){.absolute bottom="0" right="15" width="40%"}
 
 ## Forekomst av skader
  
@@ -183,6 +187,9 @@ Hvordan er det med datakvalitet?
 - Samsvaret med politiregister
 - Samsvaret i vurdering av skadens alvorlighetsgrad
 
-## {.center}
+## {.center background-color="white"}
 
-![](img/research1.png){width="80%" fig-align="center"}
+![](img/fhi-logo.png){.absolute bottom=5 right=5 height="6%" width="8%"}
+
+![](img/research.png){width="90%" fig-align="center"}
+

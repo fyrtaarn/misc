@@ -235,3 +235,7 @@ Hvordan er det med datakvalitet?
 [Vannskuter er med <br> men ikke båt]{style="color: #cc0001;"} 
 :astonished:
 :::
+
+:::{.absolute bottom="21%" left="210"}
+:heavy_check_mark:
+:::

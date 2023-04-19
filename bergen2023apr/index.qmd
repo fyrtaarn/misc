@@ -205,3 +205,32 @@ Hvordan er det med datakvalitet?
 
 ## {background-image="https://source.unsplash.com/oZuBNC-6E2s" background-size="cover"}
 
+
+## Registrering {visibility="uncounted"}
+:::: {.columns}
+::: {.column width="50%"}
+![](img/FMDS.png)
+:::
+
+::: {.column width="50%"}
+[![](img/Registreringsveileder.png)](https://www.helsedirektoratet.no/veiledere/registreringsveileder-personskade-fmds/Registreringsveileder%20personskade%20(FMDS)%20%E2%80%93%20Veileder.pdf/_/attachment/inline/df1e7e01-ccdd-4d0a-94ca-d1eef84fc174:8febf7d02d72b4095655a1cb86c231163c448403/Registreringsveileder-personskade-2021.pdf)
+:::
+::::
+
+## Fremkomstmiddel {visibility="uncounted"}
+
+![](img/fremkomstmiddel.PNG)
+
+:::{.absolute bottom="20%" right="43%"}
+[Vannskuter er <br> ikke på listen]{style="color: #cc0001;"}
+:::
+
+
+## Fremkomstmiddel {visibility="uncounted"}
+
+[ N ]{style="color: green;"} = Fri natur, utmark, hav, sjø og vann 
+![](img/fremkomstmiddel2.PNG)
+
+:::{.absolute bottom="20%" right="45%"}
+[Vannskuter er med]{style="color: #cc0001;"}
+:::

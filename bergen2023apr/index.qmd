@@ -221,8 +221,8 @@ Hvordan er det med datakvalitet?
 
 ![](img/fremkomstmiddel.PNG)
 
-:::{.absolute bottom="20%" right="43%"}
-:thinking: <br> [Vannskuter er <br> ikke på listen]{style="color: #cc0001;"}
+:::{.absolute bottom="20%" right="36%"}
+:thinking: <br> [Vannskuter og båt <br> er ikke på listen]{style="color: #cc0001;"}
 :::
 
 
@@ -231,7 +231,7 @@ Hvordan er det med datakvalitet?
 [ N ]{style="color: green;"} = Fri natur, utmark, hav, sjø og vann 
 ![](img/fremkomstmiddel2.PNG)
 
-:::{.absolute bottom="20%" right="30%"}
-[Vannskuter er med]{style="color: #cc0001;"} 
+:::{.absolute bottom="17%" right="30%"}
+[Vannskuter er med <br> men ikke båt]{style="color: #cc0001;"} 
 :astonished:
 :::

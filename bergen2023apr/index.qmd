@@ -91,9 +91,12 @@ Felles minimum datasett (FMDS) data som utgangspunkt
 
 <br>
 <br>
-_______________ 
+__________________ 
 <br>
-[ Helsedirektoratet. *Personskadedata 2022* (2023) ]{style="font-size: 15px;"}
+
+:::{.hdir}
+[ Helsedirektoratet. ](https://www.helsedirektoratet.no/rapporter/personskadedata-2022) *Personskadedata 2022* (2023)
+:::
 
 . . .
 
@@ -146,7 +149,7 @@ Frembringe mer kunnskap om hvordan risiko for skader og ulykker er fordelt mello
 - Sosiodemografisk og geografisk
 - Datakvalitet
 
-![](img/company.jpg){.absolute bottom="0" right="15" width="40%"}
+![](img/company.jpg){.absolute bottom="0" right="15" width="35%"}
 
 ## Forekomst av skader
  

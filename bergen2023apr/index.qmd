@@ -37,13 +37,13 @@ background-opacity="0.5"}
 - Else Karin Grøholt
 
 
-## {.center}
+## {.center transition="convex-in concave-out"}
 
-:::{style="font-size: 50px; color: darkblue; text-align: center"}
+:::{style="font-size: 50px; color: darkblue; text-align: center;"}
 Produsere statistikk og gjennomføre <br> ulike analyse- og forskningsoppgaver
 :::
 
-:::{style="font-size: 25px; color: black; text-align: center"}
+:::{style="font-size: 25px; color: black; text-align: center;"}
 Felles minimum datasett (FMDS) data som utgangspunkt
 :::
 

@@ -1,0 +1,31 @@
+/*-- scss:rules --*/
+
+.slide-logo {
+  display: block !important;
+  position: fixed !important;
+  top: 10px !important;
+  right: 30px !important;
+  max-height: 15% !important;
+  height: 6% !important;
+  width: 8% !important;
+  color: $body-color !important;
+}
+
+/* Add border to tables */
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  font-size: 30px;
+  width: 90%;
+}
+td, th {
+  border: 1px solid black;
+  padding: 5px;
+}
+th {
+  background-color: lightblue;
+}
+
+.hdir {
+  font-size: 15px;
+}

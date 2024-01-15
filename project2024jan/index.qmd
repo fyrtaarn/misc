@@ -1,0 +1,22 @@
+---
+title: "<span style = 'font-size: 80%;'>Fyrtårnprosjektet"
+subtitle: "Analyse av skadedata"
+author: "<br><br><span style = 'font-size: 25px;'>Litt om prosjektet<br>"
+format:
+  coeos-revealjs:
+    theme: [serif, custom.scss]
+    preview-links: auto
+    logo: img/fhi-logo.png
+    transition: fade 
+    transition-speed: default 
+    footer: |
+      <a href="https://www.fhi.no/">fhi.no</a>
+      |
+      Fyrtårnprosjektet
+    chalkboard:
+      boardmarker-width: 5
+from: markdown+emoji
+execute:
+  echo: true
+---
+

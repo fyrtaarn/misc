@@ -20,3 +20,106 @@ execute:
   echo: true
 ---
 
+## Bakgrunn
+
+- Nullvisjon i 2002
+  - Ingen drepte eller hardt skadde i vegtrafikken
+- [Nasjonal transportplan for 2022-2033](https://www.regjeringen.no/no/dokumenter/meld.-st.-20-20202021/id2839503/) 
+  - maks 350 drepte og hardt skadde i 2030
+
+## Dødårsaker etter alder
+
+![](img/cause-of-death.PNG){.absolute top=75 left=5 width="850" height="550"}
+
+## Ulykkedødsfall etter kjønn
+
+![](img/trend.png){.absolute top=75 left=5 width="750" height="550"}
+
+## Nullvisjon til 2030
+
+![](img/nullvisjon.PNG){.absolute top=75 left=5 width="850" height="550"} 
+
+## Data
+
+- Betydelig underrapportering i den offisielle trafikkulykkesstatistikken særlig lav skadegrad
+- Kartleggingen anslått at politiet kun fanger < 40% av hardt skadde pasienter i helsetjenesten pga. trafikkulykker
+- Sykkelulykker har stor mørketall i politiregisteret
+
+## Utfordringer
+
+- Tallfeste det reelle omfanget av skader
+- Følge utviklingen over tid
+- Måle effekten av forebyggende tiltak
+- Fastsette riktig skadegrad pga. ingen tilgang til vurderinger av alvorlighetgrad fra helsepersonell 
+
+## Etablering [1/2]
+
+- Samferdselsmyndighetene ønsker om bedre statistikk over trafikkulykkessader
+- Styrket apparat for innsamling av skadedata og produksjon av statistikk og analyser på skadefeltet
+- Utredning for å kartlegge hvordan skaderegistrering i helsetjenesten kan bidra til å forbedre den offisielle trafikkulykkesstatistikken i 2020 
+
+## Etablering [2/2]
+
+- Forslag om å etablere et system for å samle inn gode skadedata ved et utvalg "fyrtårn" bestående av:
+  - 10 sykehus
+  - 7 kommunale legevakter
+- Fyrtårnprosjektet ble etablert med virkning fra 2022 og eies av Samferdselsdepartementet og Helse- og omsorgsdepartementet. 
+
+## Styring og samarbeidspartner{
+background-image="img/styring.PNG" 
+background-size="60%" 
+background-position="bottom" 
+}
+
+. . .
+
+![](img/question_mark.png){.absolute bottom=255 left=370 width="80" height="85"} 
+
+## Datakilder
+
+- Skadedata fra sykehus og legevakter rapporteres via NPR i en utvidet registreringsmodul for personskader dvs. Felles Minimum Datasett (FMDS)
+- Fortsatt mangelfull kvalitet og kompletthet på skaderegistreringen dvs. kun 41% utfylte
+- Tilføre midler til en 20% skadekoordinatorstilling ved hvert sykehusene og legevaktene som deltar i prosjektet
+
+## Analyseenheten
+
+- Yusman Kamaleri
+- Eyvind Ohm
+- Kari Alver
+- Liv Elin Torheim
+
+## {.center transition="convex-in concave-out"}
+
+
+:::{style="font-size: 55px; color: black; text-align: center;"}
+Formål
+:::
+
+:::{style="font-size: 50px; color: darkblue; text-align: center;"}
+Produsere statistikk og gjennomføre <br> ulike analyse- og forskningsoppgaver
+:::
+
+:::{style="font-size: 25px; color: black; text-align: center;"}
+Felles minimum datasett (FMDS) data som utgangspunkt
+:::
+
+## [ Løpende statistikk ]{style="color:#822338"}
+
+![](img/charts.png){.absolute top=40 right=10 width="400" height="250"}
+
+<br>
+
+- Deskriptiv statistikk over <br> trafikkulykkeskader behandlet <br> i helsetjenesten dvs. [indikatorer](https://github.com/fyrtaarn/indikator/blob/main/indikator.org)
+- Utleveres [tertialvis]{style="color:#546deb;"} til Statens vegvesen
+- Datagrunnlag for å følge utviklingen av trafikkulykker dvs. endring over tid
+- Automatisert produksjon
+
+## [ Analyse og forskning ]{style="color:#822338"}
+
+<br>
+
+Frembringe mer kunnskap om hvordan risiko for skader og ulykker er fordelt mellom grupper i befolkningen
+
+- Forekomst av skader
+- Sosiodemografisk og geografisk
+- Datakvalitet

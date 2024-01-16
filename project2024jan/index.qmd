@@ -123,3 +123,58 @@ Frembringe mer kunnskap om hvordan risiko for skader og ulykker er fordelt mello
 - Forekomst av skader
 - Sosiodemografisk og geografisk
 - Datakvalitet
+
+
+![](img/company.jpg){.absolute bottom="0" right="15" width="35%"}
+
+## Forekomst av skader
+ 
+<br>
+
+Hvor mange skadde pasienter behandles i helsetjenesten?
+
+- Type ulykker/skader
+- Alvorlighetsgrad (AIS)
+- Behandlingsnivå
+
+## Sosiodemografisk og geografisk
+
+<br>
+
+Finnes det forskjeller i forekomst av skader etter..
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Kjønn
+- Aldersgruppe
+- Utdanningsnivå
+- Inntekt/formue
+:::
+
+::: {.column width="60%"}
+- Sivilstand
+- Landbakgrunn
+- Bosted
+- Skadested
+:::
+
+::::
+
+## Datakvalitet
+
+<br>
+
+Hvordan er det med datakvalitet?
+
+- Representativt bilde av skadeomfanget i hele landet (standardisering)
+- Representativitet av skader behandlet i helsetjenesten
+- Kompletthet av registreringen for alvorlig skadde
+- Samsvaret med politiregister
+- Samsvaret i vurdering av skadens alvorlighetsgrad
+
+## {.center background-color="white"}
+
+![](img/research.png){width="90%" fig-align="center"}
+
+## {background-image="https://source.unsplash.com/oZuBNC-6E2s" background-size="cover"}

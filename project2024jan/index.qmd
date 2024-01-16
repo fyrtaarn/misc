@@ -25,11 +25,22 @@ execute:
 - Nullvisjon i 2002
   - Ingen drepte eller hardt skadde i vegtrafikken
 - [Nasjonal transportplan for 2022-2033](https://www.regjeringen.no/no/dokumenter/meld.-st.-20-20202021/id2839503/) 
-  - maks 350 drepte og hardt skadde i 2030
+  - maks 350 drepte og hardt skadde innen 2030
+
+::: {.notes}
+- Stortinget vedtok i 2002
+- Maks 50 drepte innen 2030
+- Ingen omkomme i veitrafikken i 2050
+:::
 
 ## Dødårsaker etter alder
 
 ![](img/cause-of-death.PNG){.absolute top=75 left=5 width="850" height="550"}
+
+:::{.notes}
+- Data fra DÅR
+- Stor andel av de som er dødt i norge er pga. ulykker
+:::
 
 ## Ulykkedødsfall etter kjønn
 
@@ -80,6 +91,22 @@ background-position="bottom"
 - Skadedata fra sykehus og legevakter rapporteres via NPR i en utvidet registreringsmodul for personskader dvs. Felles Minimum Datasett (FMDS)
 - Fortsatt mangelfull kvalitet og kompletthet på skaderegistreringen dvs. kun 41% utfylte
 - Tilføre midler til en 20% skadekoordinatorstilling ved hvert sykehusene og legevaktene som deltar i prosjektet
+
+## FMDS Skjema {
+background-image="img/FMDS.png" 
+background-size="40%" 
+background-position="right" 
+}
+
+:::: {.columns}
+::: {.column width="60%}
+- Aktivitet ved skadetidspunkt
+- Skadested
+- Skademekanisme
+- Kontaktårsak
+- Alvorlighetsgrad
+:::
+::::
 
 ## Analyseenheten
 
@@ -177,4 +204,9 @@ Hvordan er det med datakvalitet?
 
 ![](img/research.png){width="90%" fig-align="center"}
 
+## Status
+
+[https://fyrtaarn.github.io/project/](https://fyrtaarn.github.io/project/)
+
 ## {background-image="https://source.unsplash.com/oZuBNC-6E2s" background-size="cover"}
+

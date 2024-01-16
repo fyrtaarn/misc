@@ -1,0 +1,80 @@
+#+title: Fyrtårnprosjektet
+#+author:
+
+#+STARTUP: inlineimages
+
+* Bakgrunn
+- Stortinget vedtok i 2002 en Nullvisjon dvs. ingen drepte eller hardt skadde i vegtrafikken
+- I [[https://www.regjeringen.no/no/dokumenter/meld.-st.-20-20202021/id2839503/][Nasjonal transportplan for 2022-2033]] er det fastsatt et etappemål for
+  utviklingen i antall drepte og hardt skadde. Ambisjonen er at det maksimalt
+  skal være 350 drepte og hardt skadde i 2030
+- Et ønske fra samferdselsmyndighetene om å få bedre statistikk over trafikkulykkesskader
+- Å gi et styrket apparat for innsamling av skadedata og produksjon av statistikk og analyser på skadefeltet
+- I [[https://www.regjeringen.no/no/dokumenter/meld.-st.-15-20222023/id2969572/?ch=3][Folkehelsemeldingen - Nasjonal strategi for utjevning av sosiale helseforskjellar for 2022-2023]].
+   - Bidra til god registrering
+   - Utvikle og bruke skadedata fra NPR og forskning for skadeførebygging lokalt og nasjonalt.
+* Data
+- Figur dødsårsaker etter alder
+- Figur fra nullvisjon til 2030 om drepte og hardt skadde i veitrafikken
+- Figur ulykkedødsfall etter kjønn
+- Betydelig underrapportering av skader i den offisielle
+  trafikkulykkesstatistikken særlig med lav skadegrad dvs. alvorlighet
+- Kartleggingen anslått at politiet kun fanger i underkant av 40% av hardt
+  skadde pasienter behandles i helsetjenesten som følge av trafikkulykker
+- Sykkelulykker har stor mørketall i politiregisteret
+- Utfordrende å tallfeste det reelle omfanget av skader i trafikken og følge utviklingen over tid
+- Vanskelig å måle effekten av forebyggende tiltak
+- Krevende å fastsette riktig skadegrad pga. manglende tilgang for vurderinger
+  av alvorlighetgrad foretatt av helsepersonell
+* Etablering (1/2)
+- Utredning for å kartlegge hvordan skaderegistrering i helsetjenesten kan bidre
+  til å forbedre den offisielle trafikkulykkesstatistikken i 2020
+- Forslag om å etablere et system for å samle inn gode skadedata ved et utvalg
+  "fyrtårn" bestående av
+  - 10 sykehus
+  - 7 kommunale legevakter
+- Fyrtårnprosjektet ble etablert med virkning fra 2022 og eies av
+  Samferdselsdepartementet og Helse- og omsorgsdepartementet.
+- Figur om styring av Fyrtårnprosjektet og samarbeidspartner
+* Etablering (2/2)
+- Skadedata fra sykehus og legevakter rapporteres via NPR i en utvidet
+  registreringsmodul for personskader som heter Felles Minimum Datasett (FMDS)
+- Fortsatt mangelfull kvalitet og kompletthet på skaderegistreringen. I 2021 ble
+  FMDS-data utfylt for kun 41% av alle skadene behandlet ved de
+  rapporteringenspliktige enhetene.
+- For å bedre kvaliteten, vil prosjektet tilføre midler til en 20%
+  skadekoorinatorstilling ved hvert av sykehusene og legevaktene som deltar i
+  prosjektet.
+* Analyseenheten
+- Yusman
+- Eyvind
+- Kari
+- Christian
+- Liv Elin
+* Formål
+- Produsere statistikk og gjennomføre ulike analyse- og forskningsoppgaver med
+  utgangspunkt i FMDS-data samt opplysninger fra andre registre
+* Løpende statistikk
+- Hovedoppgaver
+- Deskriptiv statistikk over trafikkulykkeskader behandlet i helsetjenesten
+- Indikatorer
+- Utleveres tertialvis til Statens vegvesen
+- Datagrunnlag for å følge utviklingen av trafikkulykker dvs. endring over tid
+- Automatisert produksjon
+* Analyse og forskning
+- Datakilder (figur)
+  #+attr_latex: :width 10px
+  [[./img/nullvisjon.png]]
+- Forskningsspørsmål:
+  1. Forekomst av skader
+     - Type ulykker/skader
+     - Alvorlighetsgrad (AIS)
+     - Behandlingsnivå
+  2. Sosiodemografisk og geografisk ulikhet i forekomst av skader
+     - Kjønn
+     - Aldersgrupper
+     - Utdanningsnivå etc
+  3. Datakvalitet
+     - Representativitet
+     - Kompletthet
+     - Samsvaret med politiregisteret

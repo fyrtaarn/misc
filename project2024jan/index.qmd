@@ -115,7 +115,7 @@ background-position="right"
 - Kari Alver
 - Liv Elin Torheim
 
-## {.center transition="convex-in concave-out"}
+## {.center transition="fade-in fade-out"}
 
 
 :::{style="font-size: 55px; color: black; text-align: center;"}
@@ -206,7 +206,10 @@ Hvordan er det med datakvalitet?
 
 ## Status
 
-[https://fyrtaarn.github.io/project/](https://fyrtaarn.github.io/project/)
-
+- [https://fyrtaarn.github.io/project/](https://fyrtaarn.github.io/project/)
+- [Folkehelsemeldingen - Nasjonal strategi for utjevning av sosiale helseforskjeller (2022-2023)](https://www.regjeringen.no/no/dokumenter/meld.-st.-15-20222023/id2969572/?ch=3)
+  - Bidra til god registrering
+  - Utvikle og bruke skadedata fra NPR og forskning for skadeførebygging lokalt og nasjonalt
+  
 ## {background-image="https://source.unsplash.com/oZuBNC-6E2s" background-size="cover"}
 

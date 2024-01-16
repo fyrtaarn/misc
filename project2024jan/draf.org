@@ -8,11 +8,6 @@
 - I [[https://www.regjeringen.no/no/dokumenter/meld.-st.-20-20202021/id2839503/][Nasjonal transportplan for 2022-2033]] er det fastsatt et etappemål for
   utviklingen i antall drepte og hardt skadde. Ambisjonen er at det maksimalt
   skal være 350 drepte og hardt skadde i 2030
-- Et ønske fra samferdselsmyndighetene om å få bedre statistikk over trafikkulykkesskader
-- Å gi et styrket apparat for innsamling av skadedata og produksjon av statistikk og analyser på skadefeltet
-- I [[https://www.regjeringen.no/no/dokumenter/meld.-st.-15-20222023/id2969572/?ch=3][Folkehelsemeldingen - Nasjonal strategi for utjevning av sosiale helseforskjellar for 2022-2023]].
-   - Bidra til god registrering
-   - Utvikle og bruke skadedata fra NPR og forskning for skadeførebygging lokalt og nasjonalt.
 * Data
 - Figur dødsårsaker etter alder
 - Figur fra nullvisjon til 2030 om drepte og hardt skadde i veitrafikken
@@ -27,6 +22,8 @@
 - Krevende å fastsette riktig skadegrad pga. manglende tilgang for vurderinger
   av alvorlighetgrad foretatt av helsepersonell
 * Etablering (1/2)
+- Et ønske fra samferdselsmyndighetene om å få bedre statistikk over trafikkulykkesskader
+- Å gi et styrket apparat for innsamling av skadedata og produksjon av statistikk og analyser på skadefeltet
 - Utredning for å kartlegge hvordan skaderegistrering i helsetjenesten kan bidre
   til å forbedre den offisielle trafikkulykkesstatistikken i 2020
 - Forslag om å etablere et system for å samle inn gode skadedata ved et utvalg
@@ -78,3 +75,8 @@
      - Representativitet
      - Kompletthet
      - Samsvaret med politiregisteret
+* Status
+- URL til status på Github
+- I [[https://www.regjeringen.no/no/dokumenter/meld.-st.-15-20222023/id2969572/?ch=3][Folkehelsemeldingen - Nasjonal strategi for utjevning av sosiale helseforskjellar for 2022-2023]].
+   - Bidra til god registrering
+   - Utvikle og bruke skadedata fra NPR og forskning for skadeførebygging lokalt og nasjonalt.

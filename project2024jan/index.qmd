@@ -79,13 +79,13 @@ execute:
 ## Styring og samarbeidspartner{
 background-image="img/styring.PNG" 
 background-size="60%" 
-background-position="bottom" 
+background-position="center" 
 }
 
 . . .
 
-![](img/question_mark.png){.absolute bottom=255 left=370 width="80" height="85"} 
-
+![](img/question_mark.png){.absolute top=260 left=390 width="70" height="75"} 
+  
 ## Datakilder
 
 - Skadedata fra sykehus og legevakter rapporteres via NPR i en utvidet registreringsmodul for personskader dvs. Felles Minimum Datasett (FMDS)
